@@ -1,0 +1,3 @@
+[submodule "inotebook-frontend"]
+	path = inotebook-frontend
+	url = ./inotebook-frontend
